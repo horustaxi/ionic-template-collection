@@ -2,7 +2,9 @@
 ionic 模板集合大全，总有一款你想要的，各种各样的模板合集，供您选择。帮助您和您的团队节约大量的开发时间。专注于业务开发。
 <p>Speed-up your app development with With beautiful design, modern and many options.</p>
 
-如果您无法下载APP，请联系我们 官方唯一指定QQ:570925777.
+如果您无法下载APP，请联系我们 官方唯一指定QQ:
+<img style="CURSOR: pointer" onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=570925777&o=ionic template&q=7', '_blank', 'height=502, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');"
+                               border="0" SRC=http://wpa.qq.com/pa?p=1:570925777:1 alt="点击这里给我发消息">.
 
 
 ## High Flight | Ionic 4 UI Theme / Template App | Starter App
@@ -162,4 +164,3 @@ ionic 模板集合大全，总有一款你想要的，各种各样的模板合�
     </a>
 </p>
 <img src="https://i.ibb.co/cQSXxGc/1previewdemo.gif" alt="Ionic5 Clothes Commerce Shop App" border="0">
-
