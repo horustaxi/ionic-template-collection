@@ -3,9 +3,7 @@ ionic 模板集合大全，总有一款你想要的，各种各样的模板合�
 <p>Speed-up your app development with With beautiful design, modern and many options.</p>
 
 如果您无法下载APP，或者有任何问题.请不要犹豫，快来联系我们吧!
-<img style="CURSOR: pointer"
-    
-     border="0" src=http://wpa.qq.com/pa?p=1:570925777:1 alt="点击这里给我发消息">
+<img style="CURSOR: pointer" border="0" src="http://wpa.qq.com/pa?p=1:570925777:1" alt="点击这里给我发消息">
 
 
 ## High Flight | Ionic 4 UI Theme / Template App | Starter App
