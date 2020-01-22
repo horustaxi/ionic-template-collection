@@ -5,7 +5,7 @@ ionic 模板集合大全，总有一款你想要的，各种各样的模板合�
 如果您无法下载APP，或者有任何问题.请不要犹豫，快来联系我们吧!
 # mail:ionictemple@qq.com.
 或加入我们的项目群3
-<img src="https://i.ibb.co/0tFk1t8/qq.jpg" alt="qq" border="0">
+<img src="https://i.ibb.co/DCfZyKh/qq1.jpg" alt="qq1" border="0">
 
 
 ## High Flight | Ionic 4 UI Theme / Template App | Starter App
